@@ -1,6 +1,6 @@
 # Estética Bella Studio
 
-Panel administrativo en PHP y MySQL para una estética. Proyecto de Metodología No Code, Universidad Tecnológica del Valle de Mezquital. Entrega del 19 de noviembre de 2026.
+Panel administrativo en PHP y MySQL para una estética.
 
 ## Código fuente completo
 
@@ -38,4 +38,3 @@ Apache 2.4, PHP 7.3+ con PDO MySQL y mbstring, MySQL 5.7+ o MariaDB 10.4+. Uso e
 
 El panel es una aplicación web independiente. La app móvil y su API de integración son mejoras futuras. No procesa pagos bancarios ni emite CFDI.
 
-El repositorio es privado. Para que el docente pueda revisar el enlace se debe concederle acceso desde la configuración de colaboradores.
