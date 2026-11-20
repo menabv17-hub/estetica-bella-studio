@@ -37,3 +37,4 @@ Apache 2.4, PHP 7.3+ con PDO MySQL y mbstring, MySQL 5.7+ o MariaDB 10.4+. Uso e
 ## Alcance
 
 El panel es una aplicación web independiente. La app móvil y su API de integración son mejoras futuras. No procesa pagos bancarios ni emite CFDI.
+
